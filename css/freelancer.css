@@ -72,10 +72,11 @@ hr.star-primary:after {
 header {
   text-align: center;
   /*background: #9DC0C2;*/
-  background-image: url(../img/fotolia_118485726.jpg);
+  background-image: url(../img/banniere.jpg);
   color: #2C3E50;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: 0% 33%;
 
 }
 header .container {
@@ -203,7 +204,7 @@ section.success {
   }
 }
 #presentation{
-  text-align: center;
+/*  text-align: center;*/
 }
 #presentation img{
   margin-left: auto;
