@@ -42,7 +42,6 @@
     });
 
 
-    $('.carousel-presse').slick();
-
+  
 
 })(jQuery); // End of use strict
